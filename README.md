@@ -1,5 +1,5 @@
 
-# Project Name
+# Sorting Algorithm Website
 
 A number sorter website made to practice sorting algorithms and applying and deploying in onto a website using **JavaScript**
 
