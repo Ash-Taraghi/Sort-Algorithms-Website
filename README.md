@@ -19,6 +19,8 @@ A number sorter website made to practice sorting algorithms and applying and dep
 
 3.  Open `index.html`
 
+4. Alternitavely, you can go to https://ash-taraghi.github.io/Sort-Algorithms-Website/
+
 ## Usage
 
 Select a bunch of random numbers and choose the sorting algorithm you wish to use in the code base. You can choose from: 
